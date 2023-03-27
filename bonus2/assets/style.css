@@ -3,7 +3,7 @@ div {
     height: 2rem;
 }
 
-.orange {
+.red {
     background-color: #C43E03;
 }
 
@@ -15,6 +15,9 @@ div {
  background-color: #84714D;
 }
 
+.orange {
+    background-color: #E08B3E;
+}
 
 .black {
     background-color: black;
@@ -22,4 +25,8 @@ div {
 
 .brown {
     background-color: brown;
+}
+
+.sun {
+    background-color: white;
 }
