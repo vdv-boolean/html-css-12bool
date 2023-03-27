@@ -4,6 +4,11 @@
     border: 1px solid white;
 }
 
+.green {
+    background-color: green;
+    height: 30px;
+}
+
 .text {
     color: white;
 }
