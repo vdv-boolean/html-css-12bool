@@ -300,12 +300,12 @@ Classes for MEDIUM layout (768px to 991px)
         max-width: calc((100% / 12) * 4);
     }
     
-    .col-sm-5{
+    .col-md-5{
         width: calc((100% / 12) * 5);
         max-width: calc((100% / 12) * 5);
     }
     
-    .col-sm-6{
+    .col-md-6{
         width: calc((100% / 12) * 6);
         max-width: calc((100% / 12) * 6);
     }
