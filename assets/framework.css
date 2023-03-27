@@ -1,0 +1,30 @@
+/************************************************
+General Setting
+************************************************/
+
+/* Reset  */
+
+*,
+*::after, 
+*::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Basic classes */
+
+.container {
+    max-width: 1170px;
+    margin: auto;
+    padding: 1rem;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+[class*="col-"] {
+    flex: 0 0 auto;
+}
